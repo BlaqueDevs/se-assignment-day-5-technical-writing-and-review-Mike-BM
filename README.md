@@ -154,7 +154,7 @@ Text learners: Real-world examples reinforce written explanations.
 Complex topics can feel intimidating, but visuals organize information in a more digestible way.
 Example: Instead of describing a workflow in text, a flowchart can map it out step by step.
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
-## 9. 1. Make Abstract Ideas More Concrete
+## How can using examples and visuals help in explaining complex concepts more clearly?
 Example: Instead of explaining cloud storage in abstract terms, say:
 “Cloud storage is like a virtual locker where you can keep your files and access them from anywhere.”
 Why it helps? Relating new ideas to familiar objects makes them easier to grasp.
